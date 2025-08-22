@@ -51,8 +51,13 @@ We wanted to **wreck that norm** and show that:
 ---
 
 ## 📸 Screenshots / Demo  
+[Live Demo → heathlink.vercel.app](https://very-usefull-website-per7.vercel.app/)
 
-(Add a screenshot or short GIF of your site here to make it visually engaging.)  
+
+<p align="center">
+  <img src="/screenshot.png" alt="" width="400"/>
+</p>
+  
 
 ---
 
