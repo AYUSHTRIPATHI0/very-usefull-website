@@ -51,7 +51,7 @@ We wanted to **wreck that norm** and show that:
 ---
 
 ## 📸 Screenshots / Demo  
-[Live Demo → heathlink.vercel.app](https://very-usefull-website-per7.vercel.app/)
+[Live Demo → very-usefull-website.vercel.app](https://very-usefull-website-per7.vercel.app/)
 
 
 <p align="center">
