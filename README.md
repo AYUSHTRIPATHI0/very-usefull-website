@@ -36,8 +36,8 @@ We wanted to **wreck that norm** and show that:
 ## 🛠️ Tech Stack  
 
 - **Frontend:** HTML, CSS, JavaScript (simple, lightweight, universally accessible)  
-- **Backend (optional):** Node.js/Express for API-based utilities  
-- **Hosting:** Vercel / Netlify (fast & free deployment)  
+
+- **Hosting:** Vercel   
 
 ---
 
